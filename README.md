@@ -26,8 +26,10 @@ It doesn't matter who you are and where you came from, do not think it's pointle
 Please do not hestitate to contact me, you can send me whatever you want, whether it's a meme, a question, or anything. I'm always here to help.
 
 # How to reach me
-email: mohammedalghofaily@outlook.com
+email: mohammedalghofaily@outlook.com 
+
 twitter: @mohaalghofaily
+
 bluesky: @ghofaily.bsky.social
 
 <!--
