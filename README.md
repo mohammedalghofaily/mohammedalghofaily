@@ -1,6 +1,6 @@
 # Welcome to my profile
 I'm Mohammed Al-Ghofaily, a 21 year old man from Saudi Arabia.
-I study Computer Science in KAU, with a very huge interest at Cybersecurity. 
+I study Computer Science in KAU, with a very huge interest in Cybersecurity. 
 I love reading about it, and I love talking about it. I even have a Youtube channel where I talk about security and my projects.
 
 # My mission
