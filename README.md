@@ -1,12 +1,12 @@
 # Welcome to my profile
 I'm Mohammed Al-Ghofaily, a 21 year old man from Saudi Arabia.
-I study Computer Science in KAU, with a very huge interest in Cybersecurity. 
+I study Computer Science in KAU, with a very huge interest at Cybersecurity. 
 I love reading about it, and I love talking about it. I even have a Youtube channel where I talk about security and my projects.
 
 # My mission
-To simply learn, I want to keep on learning about my favorite things to the point that I can talk about it for years if possible, I also want to have the ability to spread my knowledge around the world, for all of us to learn together. 
+To simply learn, I want to keep on learning about my favorite things to the point that I can talk about it for years if possible, I also want to have the ability to spread my knowledge around the world, for all of us to learn together.
 
-I love writing, I love making videos, and I love programming. The first two mainly because they help me learn a lot, if I haven't written my write-ups and blogs, I wouldn't have been able to hold my ground when it comes to tech topics. I encourage everyone to write blogs, make videos, and program, it doesn't matter how bad your program is, as long as you can look at this program and think "Wow, I made this?" it doesn't matter, what matters most is that you're happy and proud of your work. 
+I love writing, I love making videos, and I love programming. The first two mainly because they help me learn a lot, if I haven't written my write-ups and blogs, I wouldn't have been able to hold my ground when it comes to tech topics. I encourage everyone to write blogs, make videos, and program, it doesn't matter how bad your program is, as long as you can look at this program and think "Wow, I made this?" it doesn't matter, what matters most is that you're happy and proud of your work.
 
 It doesn't matter who you are and where you came from, do not think it's pointless to code when "there are so many people better", we all start somewhere, be proud of your work, one day you'll look at yourself and realize how far you have gotten.
 
